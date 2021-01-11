@@ -251,6 +251,15 @@
       "email": "ceshi@qq.com",
       "personalSignature": "测试！！！",
       "id": 30
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 31
     }
   ],
   "items": [

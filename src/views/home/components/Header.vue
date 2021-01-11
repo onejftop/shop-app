@@ -43,13 +43,13 @@
        * 新窗口打开GitHub项目仓库页面
        */
       github() {
-        window.open("https://www.baidu.com")
+        window.open("https://github.com/onejftop/shop-app.git")
       },
       /**
        * 新窗口打开Gitee项目仓库页面
        */
       gitee() {
-        window.open("https://onejftop.gitee.io/blog")
+        window.open("https://gitee.com/onejftop/shop-app.git")
       },
       /**
        * 用户注销

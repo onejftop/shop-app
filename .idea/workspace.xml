@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83c8278-4b1c-4026-b1e3-d96b3395bbd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json-server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/service/GoodsDataService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/components/Aside.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/components/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/components/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/components/Main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/pages/GoodsAll.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/pages/User.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/components/Header.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/home/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -104,6 +83,7 @@
       <workItem from="1609639321339" duration="11950000" />
       <workItem from="1609659054932" duration="9125000" />
       <workItem from="1609735085895" duration="6000" />
+      <workItem from="1610372573104" duration="842000" />
     </task>
     <servers />
   </component>
