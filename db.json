@@ -1,0 +1,296 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "李四",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "lisi@qq.com",
+      "personalSignature": "记忆是一条顺流而下的河流，而我们就是两边等待过河的人。"
+    },
+    {
+      "name": "root",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "超级VIP用户",
+      "email": "root@qq.com",
+      "personalSignature": "呵呵",
+      "id": 3
+    },
+    {
+      "name": "测试08",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 4
+    },
+    {
+      "name": "测试06",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 5
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 6
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 7
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 8
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 9
+    },
+    {
+      "name": "测试10",
+      "password": "123456",
+      "sex": "女",
+      "usertype": "VIP用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试10！！！",
+      "id": 10
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 11
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 12
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 13
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 14
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 15
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 16
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 17
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 18
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 20
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 21
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "女",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 22
+    },
+    {
+      "name": "张三",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "超级VIP用户",
+      "email": "zhangsan@qq.com",
+      "personalSignature": "张三测试！！！",
+      "id": 23
+    },
+    {
+      "name": "测试888",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 24
+    },
+    {
+      "name": "测试999",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 25
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 26
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 27
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 28
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 29
+    },
+    {
+      "name": "测试",
+      "password": "123456",
+      "sex": "男",
+      "usertype": "普通用户",
+      "email": "ceshi@qq.com",
+      "personalSignature": "测试！！！",
+      "id": 30
+    }
+  ],
+  "items": [
+    {
+      "id": 10,
+      "title": "用户管理",
+      "icon": "el-icon-user",
+      "children": [
+        {
+          "id": "users",
+          "title": "所有用户"
+        },
+        {
+          "id": "12",
+          "title": "12"
+        },
+        {
+          "id": "13",
+          "title": "13"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "商品管理",
+      "icon": "el-icon-goods",
+      "children": [
+        {
+          "id": "goods_all",
+          "title": "所有商品"
+        },
+        {
+          "id": "22",
+          "title": "22"
+        },
+        {
+          "id": "23",
+          "title": "23"
+        }
+      ]
+    }
+  ]
+}

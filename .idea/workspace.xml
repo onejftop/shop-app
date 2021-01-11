@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b83c8278-4b1c-4026-b1e3-d96b3395bbd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json-server.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/service/GoodsDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/components/Aside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/components/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/pages/GoodsAll.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/pages/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mJDaUZIbpp5zeRIY3VLfiDqNTE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/home/pages" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Vue.js\大二秋季期期末大作业\book-store-app\src\views\home\pages" />
+      <recent name="D:\workspace\Vue.js\大二秋季期期末大作业\book-store-app\src\views" />
+      <recent name="D:\workspace\Vue.js\大二秋季期期末大作业\book-store-app\src\views\index" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Vue.js\大二秋季期期末大作业\book-store-app\src\views\home" />
+      <recent name="D:\workspace\Vue.js\大二秋季期期末大作业\book-store-app\src\views\home\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83c8278-4b1c-4026-b1e3-d96b3395bbd6" name="Default Changelist" comment="" />
+      <created>1609202863769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609202863769</updated>
+      <workItem from="1609202869694" duration="15192000" />
+      <workItem from="1609224033918" duration="13481000" />
+      <workItem from="1609242872752" duration="8718000" />
+      <workItem from="1609295268811" duration="14000" />
+      <workItem from="1609295310487" duration="20000" />
+      <workItem from="1609295365274" duration="42000" />
+      <workItem from="1609295433828" duration="1227000" />
+      <workItem from="1609296686861" duration="147000" />
+      <workItem from="1609296843016" duration="5739000" />
+      <workItem from="1609310503251" duration="11565000" />
+      <workItem from="1609324540193" duration="6051000" />
+      <workItem from="1609401416446" duration="458000" />
+      <workItem from="1609401886815" duration="461000" />
+      <workItem from="1609402358426" duration="9312000" />
+      <workItem from="1609413870998" duration="19000" />
+      <workItem from="1609488609527" duration="9591000" />
+      <workItem from="1609506634173" duration="5794000" />
+      <workItem from="1609553298789" duration="10485000" />
+      <workItem from="1609572498626" duration="14345000" />
+      <workItem from="1609593157723" duration="5998000" />
+      <workItem from="1609639321339" duration="11950000" />
+      <workItem from="1609659054932" duration="9125000" />
+      <workItem from="1609735085895" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609237003536">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1609237003536" />
+    <state x="338" y="46" key="SettingsEditor" timestamp="1609413888311">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="338" y="46" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1609413888311" />
+  </component>
+</project>
