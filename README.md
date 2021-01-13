@@ -6,7 +6,7 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## 启动项目
 ```
 ## 启动项目前，需先启动 JSON Server
 yran json-server
@@ -18,7 +18,9 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##  账号密码
 
-....
+| 账号 | 88888888  (8个8) |
+| ---- | ---------------- |
+| 密码 | 88888888  (8个8) |
+

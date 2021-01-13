@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83c8278-4b1c-4026-b1e3-d96b3395bbd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/home/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/components/Header.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,10 @@
       <workItem from="1609639321339" duration="11950000" />
       <workItem from="1609659054932" duration="9125000" />
       <workItem from="1609735085895" duration="6000" />
-      <workItem from="1610372573104" duration="842000" />
+      <workItem from="1610372573104" duration="1448000" />
+      <workItem from="1610439406569" duration="362000" />
+      <workItem from="1610501109198" duration="510000" />
+      <workItem from="1610522792938" duration="9000" />
     </task>
     <servers />
   </component>

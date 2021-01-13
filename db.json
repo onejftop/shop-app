@@ -10,10 +10,10 @@
       "personalSignature": "记忆是一条顺流而下的河流，而我们就是两边等待过河的人。"
     },
     {
-      "name": "root",
+      "name": "rootvvsvsdv",
       "password": "123456",
       "sex": "男",
-      "usertype": "超级VIP用户",
+      "usertype": "VIP用户",
       "email": "root@qq.com",
       "personalSignature": "呵呵",
       "id": 3
@@ -35,15 +35,6 @@
       "email": "ceshi@qq.com",
       "personalSignature": "测试！！！",
       "id": 5
-    },
-    {
-      "name": "测试",
-      "password": "123456",
-      "sex": "男",
-      "usertype": "普通用户",
-      "email": "ceshi@qq.com",
-      "personalSignature": "测试！！！",
-      "id": 6
     },
     {
       "name": "测试",

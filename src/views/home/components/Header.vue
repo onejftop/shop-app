@@ -1,6 +1,6 @@
 <template>
   <el-row class="demo-avatar demo-basic">
-    <el-col :span="23">狗东商城</el-col>
+    <el-col :span="23">商城后台管理</el-col>
     <el-col :span="1">
       <el-dropdown trigger="click">
       <span class="el-dropdown-link">
